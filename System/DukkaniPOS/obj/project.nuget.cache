@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wTIsy3Tc/x1hlS0m7BgK6e4/8cItle5SyQB30znmlza/rViyS/aqhPjUIlPPv6jsRSMHX9yQJnc7lnjQWYLDlQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Hamoodi\\Desktop\\System\\DukkaniPOS\\DukkaniPOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hamoodi\\.nuget\\packages\\system.data.sqlite\\2.0.4\\system.data.sqlite.2.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

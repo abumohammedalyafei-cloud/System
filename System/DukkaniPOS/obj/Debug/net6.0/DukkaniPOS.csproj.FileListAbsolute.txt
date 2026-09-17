@@ -1,0 +1,17 @@
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\bin\Debug\net6.0\DukkaniPOS.exe
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\bin\Debug\net6.0\DukkaniPOS.deps.json
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\bin\Debug\net6.0\DukkaniPOS.runtimeconfig.json
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\bin\Debug\net6.0\DukkaniPOS.dll
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\bin\Debug\net6.0\DukkaniPOS.pdb
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\obj\Debug\net6.0\DukkaniPOS.csproj.AssemblyReference.cache
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\obj\Debug\net6.0\DukkaniPOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\obj\Debug\net6.0\DukkaniPOS.AssemblyInfoInputs.cache
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\obj\Debug\net6.0\DukkaniPOS.AssemblyInfo.cs
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\obj\Debug\net6.0\DukkaniPOS.csproj.CoreCompileInputs.cache
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\obj\Debug\net6.0\DukkaniPOS.csproj.CopyComplete
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\obj\Debug\net6.0\DukkaniPOS.dll
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\obj\Debug\net6.0\refint\DukkaniPOS.dll
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\obj\Debug\net6.0\DukkaniPOS.pdb
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\obj\Debug\net6.0\DukkaniPOS.genruntimeconfig.cache
+C:\Users\Hamoodi\Desktop\System\DukkaniPOS\obj\Debug\net6.0\ref\DukkaniPOS.dll
